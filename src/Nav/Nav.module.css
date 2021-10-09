@@ -1,0 +1,7 @@
+.nav{
+    width: 500px;
+    border: 1px solid;
+    display: flex;
+    justify-content: space-evenly;
+}
+

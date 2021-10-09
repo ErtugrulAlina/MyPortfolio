@@ -1,0 +1,14 @@
+.main{
+    height: 100vh;
+    background-color: #ffccd4;
+}
+
+.text{
+    width: 300px;
+    background-color: forestgreen;
+}
+.photo{
+    background-color: white;
+    width:300px;
+    height: 300px;
+}
